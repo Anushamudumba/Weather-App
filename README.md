@@ -1,4 +1,5 @@
-
+Weather App
+------------
 
 🌤️ Weather App – JavaScript Project
 This Weather App is a responsive and user-friendly web application that allows users to check real-time weather information for any city using the OpenWeatherMap API. Built with HTML, CSS, and JavaScript, it dynamically displays the current temperature, humidity, wind speed, and weather conditions with relevant icons.
